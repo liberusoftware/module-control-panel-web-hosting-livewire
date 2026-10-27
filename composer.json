@@ -19,7 +19,7 @@
       "name": "control-panel-web-hosting-livewire"
     }
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "config": {
     "allow-plugins": {
       "pestphp/pest-plugin": true
